@@ -1,0 +1,13 @@
+{
+    "Board": {
+        "Rows": "8",
+        "Cols": "7"
+    },
+    "Moves": "13",
+    "Objectives": {
+        "Violet": "10",
+        "Green": "15",
+        "Orange": "20"
+    },
+    "Colors": "5"
+}
